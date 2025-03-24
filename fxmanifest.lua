@@ -4,7 +4,7 @@ rdr3_warning "I acknowledge that this is a prerelease build of RedM, and I am aw
 lua54 "yes"
 
 author "Sarbatore"
-description "Radius for voice proximity"
+description "Voice radius for SaltyChat & PMA-voice"
 
 client_scripts {
     "config.lua",
